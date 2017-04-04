@@ -1,2 +1,3 @@
 # hello-world
 tutorial repository
+This is some stuff about myself.  Blah blah blah...
